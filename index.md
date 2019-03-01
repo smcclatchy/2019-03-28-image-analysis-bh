@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: ""    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
-venue: "The Jackson Laboratory"
+venue: "Basic Image Analysis with Python"
 address: "Breezeway Bioinformatics Training Room 1540, Building 1, Unit 5, 600 Main Street, Bar Harbor, Maine"
 country: "us"
 language: "en"
@@ -13,7 +13,7 @@ enddate: 2019-03-29
 instructor: [""]
 helper: [""]
 email: ["susan.mcclatchy@jax.org"]
-collaborative_notes: https://pad.carpentries.org/2018-10-10-r-bh
+collaborative_notes: https://pad.carpentries.org/2019-03-28-image-analysis-bh
 eventbrite: 57836189600
 ---
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
@@ -115,8 +115,7 @@ Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
 <strong>Requirements:</strong> Participants must bring a laptop with a
-Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges
-on. They should have a few specific software packages installed (listed
+Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.). They should have a few specific software packages installed (listed
 <a href="#setup">below</a>). They are also required to abide by
 {% if page.carpentry == "swc" %}
 Software Carpentry's
@@ -192,7 +191,7 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 
 <div class="row">
 <div class="col-md-6">
-<h3>Thursday, January 31</h3>
+<h3>Thursday, March 28</h3>
 <table class="table table-striped">
 <tr> <td>Before</td>  <td><a href="https://www.surveymonkey.com/r/image-analysis">Pre-workshop survey</a></td> </tr>
 <tr> <td>13:30</td>  <td>Workshop overview</td> </tr>
@@ -205,7 +204,7 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 </table>
 </div>
 <div class="col-md-6">
-<h3>Friday, February 1</h3>
+<h3>Friday, March 29</h3>
 <table class="table table-striped">
 <tr> <td>09:00</td>  <td>Image I / O</td> </tr>
 <tr> <td>10:30</td>  <td>Coffee</td> </tr>
