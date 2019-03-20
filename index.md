@@ -11,7 +11,7 @@ humantime: "1:30pm - 4:30pm Thu; 9:00 am - 4:30 pm Fri"
 startdate: 2019-03-28
 enddate: 2019-03-29
 instructor: ["Dave Mellert"]
-helper: ["Sue McClatchy"]
+helper: ["Sue McClatchy", "Jim Peterson"]
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes: https://pad.carpentries.org/2019-03-28-image-analysis-bh
 eventbrite: 57836189600
