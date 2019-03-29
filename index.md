@@ -209,11 +209,11 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 <tr> <td>09:00</td>  <td>Image I / O</td> </tr>
 <tr> <td>10:30</td>  <td>Coffee</td> </tr>
 <tr> <td>10:45</td>  <td>Filters and convolutions</td> </tr>
-<tr> <td>12:30</td>  <td>Lunch</td> </tr>
-<tr> <td>13:30</td>  <td>Morphology</td> </tr>
-<tr> <td>15:00</td>  <td>Coffee</td> </tr>
-<tr> <td>16:15</td>  <td><a href="https://www.surveymonkey.com/r/post-image-analysis">Post-workshop survey</a></td> </tr>
-<tr> <td>16:30</td>  <td>End</td> </tr>
+<tr> <td>12:00</td>  <td>Lunch</td> </tr>
+<tr> <td>13:00</td>  <td>Morphology</td> </tr>
+<tr> <td>14:30</td>  <td>Coffee</td> </tr>
+<tr> <td>15:45</td>  <td><a href="https://www.surveymonkey.com/r/post-image-analysis">Post-workshop survey</a></td> </tr>
+<tr> <td>16:00</td>  <td>End</td> </tr>
 </table>
 </div>
 </div>
